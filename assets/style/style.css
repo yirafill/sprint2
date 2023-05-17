@@ -1,0 +1,233 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+    
+}
+body{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+
+}
+
+h1 {
+    color: yellowgreen;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+h2 {
+    margin-top: 1rem;
+    color: pink;
+   display: flex;
+   justify-content: center;
+}
+
+h4{
+    color: orange;
+    display: flex;
+    justify-content: center;
+    margin-top: 0.25rem;
+}
+
+nav{
+    display: flex;
+    background-color: yellow;
+    padding: 0.5rem ;
+    border: 0.25rem solid purple;
+    justify-content: space-between;
+
+}
+nav a{
+    margin-top: 1.5rem;
+    color: fuchsia;
+
+}
+nav img{
+    height: 5rem;
+    width: 5rem;
+    display: flex;
+    justify-items: flex-end;
+
+
+}
+.textonav{
+
+    font-size: 1rem;
+    display: flex;
+    justify-content: start;
+    gap: 2rem;
+
+}
+
+.fotoprincipal{
+    display: flex;
+    justify-content: center;
+}
+
+.fotoprincipal img{
+
+    margin-top: 2rem;
+    width: 80rem;
+    height: 30rem;
+
+
+}
+
+.caja2 {
+
+    display: flex;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    justify-content: center;
+
+}
+.parrafo {
+
+    width:40rem ;
+    height: 30rem;
+    margin-right: 2rem;
+    margin-top: 10rem;
+}
+.contenido {
+
+    width: 30.5rem;
+    height: 40rem;
+
+}
+
+footer{
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    border: 0.25rem solid purple;
+    text-align: center;
+    width: 84.3rem;
+    padding: 2rem;
+
+}
+
+
+
+
+.titulo2 {
+    margin-top: 2rem;
+}
+
+.tamanosec img{
+    height: 20rem;
+    width: 30rem;
+    align-items: flex-start;
+    margin: 0rem 4rem 0rem 6rem;
+}
+
+
+.paimagen{
+    margin-top: 10rem;
+}
+
+
+.tamanosec div{
+    margin: 2rem;
+    display: flex;
+    justify-content:start; 
+}
+
+
+
+.divimagencon {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+
+.contacto2{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    flex-wrap: wrap;
+
+}
+.parrafocon{
+   width: 100%;
+   text-align: center;
+
+}
+
+.imagencontacto {
+
+    width: 20rem;
+    height: 30rem;
+
+
+}
+
+.info {
+    
+   margin: 1rem;
+   gap: 1rem;
+}
+
+.pmore{
+    margin: 2rem;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5rem;
+}
+
+tr,th,td {
+    font-size: 1.5rem;
+    text-align: center;
+    border: 2px solid black;
+}
+table{
+    display: flex;
+    justify-content: center;
+    margin: 4rem;
+}
+.fmore{
+    display: flex;
+    align-self: flex-end;
+    margin-top: 9.5rem;
+    width: 85.3rem;
+ 
+}
+
+.pbe{
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.be1 img{
+    height: 10rem;
+    width: 20rem;
+   
+
+}
+.be2 img{
+  
+    height: 10rem;
+    width: 20rem;
+}
+.lis {
+    margin-left: 3rem;
+    margin-top: 2.5rem;
+}
+
+div {
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content:center; 
+
+}
+
+.lis1 {
+    margin-right: 16rem;
+}
